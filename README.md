@@ -1,1 +1,1 @@
-# gitTestMerge
+# git-Test-Merge
